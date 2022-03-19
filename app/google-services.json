@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890031778571",
+    "project_id": "chatappadd",
+    "storage_bucket": "chatappadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890031778571:android:0fc3ecee9480e2816d100e",
+        "android_client_info": {
+          "package_name": "com.example.chatappadd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890031778571-l8b6pb1t5jin89rt3bhuu2dfhj0tn9il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLQs1GV2tBSNXp-EOq_e0tOppjJbmVFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890031778571-l8b6pb1t5jin89rt3bhuu2dfhj0tn9il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
